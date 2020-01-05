@@ -34,7 +34,7 @@
                     <div class="col-lg-6 col-md-7 d-flex align-items-center">
                         <div class="overview-content">
                             <h2>Welcome To <span>Tims Jewelry</span> Store!</h2>
-                            <p class="short_desc">Makers of gemstone jewelry and precious metals:
+                            <p class="short_desc">Makers of gemstone jewelry and precious jewelry:
                                 We create jewelry pieces that just don't stand out but gives an impression to the bearer,
                                 giving that extra aura of possessing genuine precious jewelry.
                                 Our crafted products are irresistible because every piece is hand-crafted and stands out as

@@ -53,11 +53,13 @@
                                 <select class="nice-select select-search-category">
                                         <option value="0">All</option>
                                         <option value="10">Jewelries</option>
-                                        <option value="17">- - - - Anklets</option>
                                         <option value="20">- - - - Bracelets</option>
+                                        <option value="17">- - - - Cufflings</option>
                                         <option value="21">- - - - Necklaces</option>
                                         <option value="22">- - - - Earrings</option>
+                                        <option value="17">- - - - Lapels</option>
                                         <option value="23">- - - - Rings</option>
+                                        <option value="17">- - - - Customizables</option>
                                         <option value="11">Birthstones</option>
                                         <option value="45">- - - - January</option>
                                         <option value="47">- - - - February</option>
@@ -109,10 +111,13 @@
                                             <ul class="hm-dropdown">
                                                 <li><a href="shop-3-column.html">Rings</a></li>
                                                 <li><a href="shop-left-sidebar.html">Lapels</a></li>
+                                                <li><a href="shop-list-left-sidebar.html">Earrings</a></li>
                                                 <li><a href="shop-right-sidebar.html">Cufflings</a></li>
                                                 <li><a href="shop-list-fullwidth.html">Necklaces</a></li>
-                                                <li><a href="shop-list-left-sidebar.html">Earrings</a></li>
                                                 <li><a href="shop-list-right-sidebar.html">Bracelets</a></li>
+                                                <li><a href="shop-list-right-sidebar.html">Birthstones</a></li>
+                                                <li><a href="shop-list-right-sidebar.html">Customizables</a></li>
+                                               
                                                         
                                             </ul>
                                         </li>
