@@ -15,7 +15,7 @@
 
 
         <!-- Begin Hiraola's Breadcrumb Area -->
-        <div class="breadcrumb-area">
+       <!-- <div class="breadcrumb-area">
             <div class="container">
                 <div class="breadcrumb-content">
                     <h2>Shop</h2>
@@ -25,7 +25,7 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div>-->
         <!-- Hiraola's Breadcrumb Area End Here -->
 
 

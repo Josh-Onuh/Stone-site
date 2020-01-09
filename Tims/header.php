@@ -90,7 +90,7 @@
                         <div class="col-md-4 col-sm-4 d-lg-none d-block">
                             <div class="header-logo">
                                 <a href="index.html">
-                                    <img src="assets/images/menu/logo/2.png" alt="Tim's Jewelry Header Logo">
+                                    <img src="assets/images/menu/logo/1.png" alt="Tim's Jewelry Header Logo">
                                 </a>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                                         </li>
                                         
                                         <li><a href="contact.php">Contact</a></li>
-                                        <li><a href="shop-left-sidebar.html">Collection</a>
+                                        <!--<li><a href="shop-left-sidebar.html">Collection</a>
                                             <ul class="hm-dropdown">
                                                 <li><a href="shop-3-column.html">Rings</a></li>
                                                 <li><a href="shop-left-sidebar.html">Lapels</a></li>
@@ -120,7 +120,8 @@
                                                
                                                         
                                             </ul>
-                                        </li>
+                                        </li>-->
+                                        <li><a href="blog.php">Blog</a></li>
                                         <li><a href="faq.php">FAQs</a></li>
                                     </ul>
                                 </nav>

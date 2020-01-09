@@ -15,7 +15,7 @@
 
 
         <!-- Begin Tim's jewelry Breadcrumb Area -->
-        <div class="breadcrumb-area">
+       <!-- <div class="breadcrumb-area">
             <div class="container">
                 <div class="breadcrumb-content">
                     <h2>Other</h2>
@@ -25,7 +25,7 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div>-->
         <!-- Tim's jewelry Breadcrumb Area End Here -->
         <!-- Begin Tim's jewelry About Us Area -->
         <div class="about-us-area">
